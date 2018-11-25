@@ -1,11 +1,9 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
+# The Productive Developer Blog
 
 ## Running in development
 `gatsby develop`
+
+## S3 Deployment
+
+https://docs.aws.amazon.com/cli/latest/reference/s3/cp.html
+`aws s3 cp --recursive . s3://the-productive-developer-blog`
