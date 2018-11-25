@@ -7,6 +7,8 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import { rhythm, scale } from '../utils/typography'
 
+import "../../static/app.css"
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
@@ -20,6 +22,7 @@ class BlogPostTemplate extends React.Component {
           htmlAttributes={{ lang: 'en' }}
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
+
         />
         <h1>{post.frontmatter.title}</h1>
         <p

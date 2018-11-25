@@ -5,8 +5,8 @@ import { rhythm, scale } from '../utils/typography'
 
 class Layout extends React.Component {
   render() {
-    const { title, children } = this.props
-    let header
+    const { title, children } = this.props;
+    let header;
 
       header = (
         <div
