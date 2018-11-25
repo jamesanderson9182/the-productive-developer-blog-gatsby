@@ -6,4 +6,5 @@
 ## S3 Deployment
 
 https://docs.aws.amazon.com/cli/latest/reference/s3/cp.html
-`aws s3 cp --recursive . s3://the-productive-developer-blog`
+`cd Public`
+`aws s3 cp --recursive --dryrun . s3://the-productive-developer-blog`
