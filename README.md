@@ -9,4 +9,4 @@ https://docs.aws.amazon.com/cli/latest/reference/s3/cp.html
 
 `cd public`
 
-`aws s3 cp --recursive --dryrun . s3://the-productive-developer-blog`
+`aws s3 cp --recursive --dryrun . s3://theproductivedeveloper.net`
