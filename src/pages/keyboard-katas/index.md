@@ -48,7 +48,7 @@ There will be a webpage or PDF of all of the available default shortcuts.
 
 **Print this out** and **highlight** all of those you want to use. 
 Alternatively, read them and scribble down in 
-your [notebook](https://theproductivedeveloper.net/2018/11/13/why-i-keep-a-paper-notebook/) those that you want to 
+your [notebook](/why-i-keep-a-paper-notebook/) those that you want to 
 start using and what they do when your fingers move into those positions.
 
 Practice these shortcuts regularly. Transform them into daily keyboard katas to streamline your development workflow. 
