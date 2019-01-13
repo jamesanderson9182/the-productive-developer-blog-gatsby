@@ -1,6 +1,6 @@
 ---
 title: Destroy Distractions
-date: "2018-12-30T12:00:04+00:00"
+date: "2019-01-13T12:00:04+00:00"
 ---
 
 Distractions and interruptions take us out of a state of flow. Distractions reduce our effectiveness as programmers.

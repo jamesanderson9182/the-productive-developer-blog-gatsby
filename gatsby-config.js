@@ -53,7 +53,7 @@ module.exports = {
         short_name: `The Productive Developer`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#cc0000`,
+        theme_color: `#007acc`,
         display: `minimal-ui`,
         icon: `static/favicon.png`,
       },
